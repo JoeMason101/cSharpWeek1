@@ -1,0 +1,1 @@
+C:\Users\student\Desktop\cSharpWeek1\switchStatement\switchStatement\bin\Debug\switchStatement.exe.config

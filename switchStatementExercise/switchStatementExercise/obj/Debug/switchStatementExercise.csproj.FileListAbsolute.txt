@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\cSharpWeek1\switchStatementExercise\switchStatementExercise\bin\Debug\switchStatementExercise.exe.config
+C:\Users\student\Desktop\cSharpWeek1\switchStatementExercise\switchStatementExercise\bin\Debug\switchStatementExercise.exe
+C:\Users\student\Desktop\cSharpWeek1\switchStatementExercise\switchStatementExercise\bin\Debug\switchStatementExercise.pdb
+C:\Users\student\Desktop\cSharpWeek1\switchStatementExercise\switchStatementExercise\obj\Debug\switchStatementExercise.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\cSharpWeek1\switchStatementExercise\switchStatementExercise\obj\Debug\switchStatementExercise.exe
+C:\Users\student\Desktop\cSharpWeek1\switchStatementExercise\switchStatementExercise\obj\Debug\switchStatementExercise.pdb
