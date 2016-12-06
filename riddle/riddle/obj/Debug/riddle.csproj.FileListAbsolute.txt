@@ -3,3 +3,4 @@ C:\Users\student\Desktop\cSharpWeek1\riddle\riddle\bin\Debug\riddle.exe
 C:\Users\student\Desktop\cSharpWeek1\riddle\riddle\bin\Debug\riddle.pdb
 C:\Users\student\Desktop\cSharpWeek1\riddle\riddle\obj\Debug\riddle.exe
 C:\Users\student\Desktop\cSharpWeek1\riddle\riddle\obj\Debug\riddle.pdb
+C:\Users\student\Desktop\cSharpWeek1\riddle\riddle\obj\Debug\riddle.csprojResolveAssemblyReference.cache

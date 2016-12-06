@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\cSharpWeek1\dictionaries\dictionaries\bin\Debug\dictionaries.exe.config
+C:\Users\student\Desktop\cSharpWeek1\dictionaries\dictionaries\bin\Debug\dictionaries.exe
+C:\Users\student\Desktop\cSharpWeek1\dictionaries\dictionaries\bin\Debug\dictionaries.pdb
+C:\Users\student\Desktop\cSharpWeek1\dictionaries\dictionaries\obj\Debug\dictionaries.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\cSharpWeek1\dictionaries\dictionaries\obj\Debug\dictionaries.exe
+C:\Users\student\Desktop\cSharpWeek1\dictionaries\dictionaries\obj\Debug\dictionaries.pdb

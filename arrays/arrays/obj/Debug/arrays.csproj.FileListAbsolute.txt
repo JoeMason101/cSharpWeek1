@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\cSharpWeek1\arrays\arrays\bin\Debug\arrays.exe.config
+C:\Users\student\Desktop\cSharpWeek1\arrays\arrays\obj\Debug\arrays.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\cSharpWeek1\arrays\arrays\bin\Debug\arrays.exe
+C:\Users\student\Desktop\cSharpWeek1\arrays\arrays\bin\Debug\arrays.pdb
+C:\Users\student\Desktop\cSharpWeek1\arrays\arrays\obj\Debug\arrays.exe
+C:\Users\student\Desktop\cSharpWeek1\arrays\arrays\obj\Debug\arrays.pdb

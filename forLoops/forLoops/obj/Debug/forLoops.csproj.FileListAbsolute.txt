@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\cSharpWeek1\forLoops\forLoops\bin\Debug\forLoops.exe.config
+C:\Users\student\Desktop\cSharpWeek1\forLoops\forLoops\bin\Debug\forLoops.exe
+C:\Users\student\Desktop\cSharpWeek1\forLoops\forLoops\bin\Debug\forLoops.pdb
+C:\Users\student\Desktop\cSharpWeek1\forLoops\forLoops\obj\Debug\forLoops.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\cSharpWeek1\forLoops\forLoops\obj\Debug\forLoops.exe
+C:\Users\student\Desktop\cSharpWeek1\forLoops\forLoops\obj\Debug\forLoops.pdb
