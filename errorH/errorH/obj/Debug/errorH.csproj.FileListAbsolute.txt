@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\cSharpWeek1\errorH\errorH\bin\Debug\errorH.exe.config
+C:\Users\student\Desktop\cSharpWeek1\errorH\errorH\bin\Debug\errorH.exe
+C:\Users\student\Desktop\cSharpWeek1\errorH\errorH\bin\Debug\errorH.pdb
+C:\Users\student\Desktop\cSharpWeek1\errorH\errorH\obj\Debug\errorH.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\cSharpWeek1\errorH\errorH\obj\Debug\errorH.exe
+C:\Users\student\Desktop\cSharpWeek1\errorH\errorH\obj\Debug\errorH.pdb

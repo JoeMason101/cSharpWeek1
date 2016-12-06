@@ -18,7 +18,7 @@ namespace lists
 
             do
             {
-                Console.WriteLine("Here is your book collection press A to Add  a book, D to delete, L to list S to Sort, Press E to exit");
+                Console.WriteLine("Here is your book collection press A to Add  a book, D to delete, F to find, L to list S to Sort, Press E to exit");
                 result = Console.ReadLine().ToLower();
                 switch (result)
                 {
@@ -47,6 +47,19 @@ namespace lists
                         foreach (string search in books)
                         {
                             Console.WriteLine(search);
+                        }
+                        break;
+                    case "f":
+                        string finds;
+                        Console.WriteLine("What book do you want to find");
+                        finds = Console.ReadLine();
+
+                        if (books.Contains(finds))
+                        {
+                            Console.WriteLine("Book found");
+                        } else
+                        {
+                            Console.WriteLine("Book not found try again");
                         }
                         break;
                     case "e":
