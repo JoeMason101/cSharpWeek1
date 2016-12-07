@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\cSharpWeek1\alexProject\alexProject\bin\Debug\alexProject.exe.config
+C:\Users\student\Desktop\cSharpWeek1\alexProject\alexProject\bin\Debug\alexProject.exe
+C:\Users\student\Desktop\cSharpWeek1\alexProject\alexProject\bin\Debug\alexProject.pdb
+C:\Users\student\Desktop\cSharpWeek1\alexProject\alexProject\obj\Debug\alexProject.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\cSharpWeek1\alexProject\alexProject\obj\Debug\alexProject.exe
+C:\Users\student\Desktop\cSharpWeek1\alexProject\alexProject\obj\Debug\alexProject.pdb

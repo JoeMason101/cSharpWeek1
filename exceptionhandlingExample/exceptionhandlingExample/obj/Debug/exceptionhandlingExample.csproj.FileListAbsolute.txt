@@ -1,0 +1,5 @@
+c:\users\student\documents\visual studio 2015\Projects\exceptionhandlingExample\exceptionhandlingExample\bin\Debug\exceptionhandlingExample.exe.config
+c:\users\student\documents\visual studio 2015\Projects\exceptionhandlingExample\exceptionhandlingExample\bin\Debug\exceptionhandlingExample.exe
+c:\users\student\documents\visual studio 2015\Projects\exceptionhandlingExample\exceptionhandlingExample\bin\Debug\exceptionhandlingExample.pdb
+c:\users\student\documents\visual studio 2015\Projects\exceptionhandlingExample\exceptionhandlingExample\obj\Debug\exceptionhandlingExample.exe
+c:\users\student\documents\visual studio 2015\Projects\exceptionhandlingExample\exceptionhandlingExample\obj\Debug\exceptionhandlingExample.pdb

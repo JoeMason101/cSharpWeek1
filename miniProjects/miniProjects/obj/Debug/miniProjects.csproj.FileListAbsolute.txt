@@ -1,0 +1,6 @@
+C:\Users\student\Desktop\cSharpWeek1\miniProjects\miniProjects\bin\Debug\miniProjects.exe.config
+C:\Users\student\Desktop\cSharpWeek1\miniProjects\miniProjects\bin\Debug\miniProjects.exe
+C:\Users\student\Desktop\cSharpWeek1\miniProjects\miniProjects\bin\Debug\miniProjects.pdb
+C:\Users\student\Desktop\cSharpWeek1\miniProjects\miniProjects\obj\Debug\miniProjects.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\cSharpWeek1\miniProjects\miniProjects\obj\Debug\miniProjects.exe
+C:\Users\student\Desktop\cSharpWeek1\miniProjects\miniProjects\obj\Debug\miniProjects.pdb
